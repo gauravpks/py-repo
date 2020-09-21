@@ -35,3 +35,11 @@ Is student is allowed to sit in exam or not.
 
 
 Q7- Modify the above question to allow student to sit if he/she has medical cause. Ask user if he/she has medical cause or not ( 'Y' or 'N' ) and print accordingly.
+
+Q8 - 
+1 - Take 2 list with 5 elemnt each
+2 - Remove 2 element from List1 and add the same element to List 2
+3 - Append List 2 to List 1
+4 - Pop the middle element of List 2
+5 - Find the length of List 2
+6 - If Lenggth is greater then 7 print - Length greater then 7 else print opposite 
