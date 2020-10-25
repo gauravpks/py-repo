@@ -1,0 +1,8 @@
+The pefect guess
+
+Write a progam to geneate a random number and ask the user to guess it.
+
+If the palyes guess is higher than the actual number, the pogram displays "You guessed it wrong! Enter a smaller number". 
+Similarly if the uses's guess is too low, the program displays "You guessed it wrong! Enter a lower number"
+If user guesses correctly, program should display the number of guesses the user used to arrive the number.
+If user has guessed better than the pevious users who played the game, program should display - You have just broken the highst score!
